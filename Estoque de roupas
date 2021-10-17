@@ -1,0 +1,33 @@
+<?Xml version "1.0 " encondin= "UFT - 8?>
+
+<ProjectDescripition>
+
+<name>Loja de estoque de roupas<name>
+
+<projects>
+
+</projects>
+
+<BuildSpec>
+
+             <BuildCommand>
+
+                               
+
+<name>Loja de estoque de roupas<name>
+
+     <arguments>
+
+      </arguments>
+
+    </buildCommand>
+
+</buildSpec>
+
+<natures>
+
+<nature> Loja de estoque de roupas<nature>
+
+        </nature> 
+
+</ProjectDescripition>
